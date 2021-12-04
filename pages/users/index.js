@@ -1,8 +1,10 @@
+import styles from "../../styles/Users.module.css";
+
 const Users = () => {
   return ( 
-    <>
-      <div>Users</div>
-    </>
+    <section>
+      <h1>Users</h1>
+    </section>
    );
 }
  
